@@ -1,6 +1,6 @@
 # Plymouth IT Consultants Demo
 Repo to share example code that compliments the Graph Databases coursework. For demonstration purposes only.
-# users.cypher
+# example_db.cypher
 The contents of this file can be pasted into a neo4j browser to create an example database that shows our proposed data model and will allow you to run our proposed recommendation system.  
 # master_algorithm.cypher
 This is the CQL code that makes up our recommendation system, each of the 3 algorithms is in its own call block.  
